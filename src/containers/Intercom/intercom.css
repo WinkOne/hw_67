@@ -1,0 +1,18 @@
+.IntercomWindow{
+    width: 400px;
+    height: 120px;
+    border: 1px solid black;
+    margin: 0 auto;
+    border-bottom: none;
+    padding: 15px 10px 15px 10px;
+    font-size: 20px;
+}
+.keyboardBox{
+    border: 1px solid black;
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 0 auto;
+}
